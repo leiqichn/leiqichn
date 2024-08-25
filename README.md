@@ -2,7 +2,7 @@
     <img src="image/readme_file.png">
 </div>
 
-My ![Visitor Count](https://profile-counter.glitch.me/leiqichn/count.svg) Visitor.
+Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqichn/count.svg) Visitor.
 
 ## About Me  
 - 🌱 I graduated from Fudan University.
