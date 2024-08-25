@@ -19,19 +19,18 @@ Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqi
 
 - Language : Golang, Python, C++/C, Java, Vue, Django.
 
-
 ## Open Source Experience 👯
 
 **As a manager** ：
 
-- [PhenoBERT](https://github.com/TianlabTech/PhenoBERT.git) ： **PhenoBERT** 利用深度学习对临床电子病历疾病表型术语的标准化课题
+- [PhenoBERT](https://github.com/TianlabTech/PhenoBERT.git) : *PhenoBERT:**A combined deep learning method for automated recognition of human phenotype ontology
 
 **As a member** :
-- [IEEE Journal of Biomedical and Health Informatics（IF=5.77）]() :  审稿人
+- [IEEE Journal of Biomedical and Health Informatics（IF=5.77）]() : Reviewer
 
 ## Competition
 
-- [优酷x天池 「酷文」小说创作大模型挑战赛](https://tianchi.aliyun.com/competition/entrance/532210/customize509): DeepThinking 队长, **Top4**.
+- [优酷x天池 「酷文」小说创作大模型挑战赛](https://tianchi.aliyun.com/competition/entrance/532210/customize509): DeepThinking Team Leader, **Top4**.
 
 ## GitHub Stats 📫
 
