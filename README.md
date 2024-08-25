@@ -15,17 +15,16 @@ My ![Visitor Count](https://profile-counter.glitch.me/leiqichn/count.svg) Visito
 </picture>
 
 ## Interest 👨🏽‍💻
-- NLP : Large Language Model, Prompt Engineering and more things about NLP.
+- Project : NLP, Large Language Model, Golang Project, Python Project, Vue Project.
 
-- Language : Python, Pytorch and Markdown.
+- Language : Golang, Python, C++/C, Java, Vue, Django.
 
-- Theory : Voronoi diagram algorithm.
 
 ## Open Source Experience 👯
 
 **As a manager** ：
 
-- [PhenoBERT](https://github.com/TianlabTech/PhenoBERT.git) ： **PhenoBERT** 
+- [PhenoBERT](https://github.com/TianlabTech/PhenoBERT.git) ： **PhenoBERT** 利用深度学习对临床电子病历疾病表型术语的标准化课题
 
 **As a member** :
 - [IEEE Journal of Biomedical and Health Informatics（IF=5.77）]() :  审稿人
