@@ -23,7 +23,7 @@ Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqi
 
 **As a manager** ：
 
-- [PhenoBERT](https://github.com/TianlabTech/PhenoBERT.git) : *PhenoBERT:**A combined deep learning method for automated recognition of human phenotype ontology
+- [PhenoBERT](https://github.com/TianlabTech/PhenoBERT.git) : **PhenoBERT:** A combined deep learning method for automated recognition of human phenotype ontology
 
 **As a member** :
 - [IEEE Journal of Biomedical and Health Informatics（IF=5.77）]() : Reviewer
