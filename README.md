@@ -42,5 +42,5 @@ Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiqichn&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </div>
 
-## Leetcode Stats 📫
+## Leetcode Stats 🌌
 ![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=lei_qi&cn=true)
