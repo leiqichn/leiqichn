@@ -23,7 +23,7 @@ Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqi
 
 **As a manager** ：
 
-- [优酷x天池 「酷文」小说创作大模型挑战赛](https://tianchi.aliyun.com/competition/entrance/532210/customize509): DeepThinking Team Leader, **Top4**.
+- [优酷x天池 「酷文」小说创作大模型挑战赛](https://tianchi.aliyun.com/competition/entrance/532210/customize509): DeepThinking Team Leader, **Third Prize**.
 
 **As a member** :
 
@@ -33,7 +33,7 @@ Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqi
 
 ## Competition
 
-- [优酷x天池 「酷文」小说创作大模型挑战赛](https://tianchi.aliyun.com/competition/entrance/532210/customize509): DeepThinking Team Leader, **Top4**.
+- [优酷x天池 「酷文」小说创作大模型挑战赛](https://tianchi.aliyun.com/competition/entrance/532210/customize509): DeepThinking Team Leader, **Third Prize**.
 
 ## GitHub Stats 📫
 
@@ -41,6 +41,3 @@ Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqi
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=leiqichn&show_icons=true&theme=light" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiqichn&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </div>
-
-## Leetcode Stats 🌌
-![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=lei_qi&cn=true)
