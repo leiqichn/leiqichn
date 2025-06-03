@@ -17,7 +17,7 @@ Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqi
 ## Interest 👨🏽‍💻
 - Project: NLP, Large Language Model, Golang Project, Python Project, Vue3 Project, DRF Project.
 
-- Scientific Research: Human phenotype recognition in electronic medical records， Protein Function Prediction, IDRs/IDP Prediction.
+- Scientific Research: Human phenotype recognition in electronic medical records, Protein Function Prediction, IDRs/IDP Prediction.
 
 - Language: Golang, Python, C/C++, Java, Shell.
 
@@ -43,3 +43,7 @@ Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqi
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=leiqichn&show_icons=true&theme=light" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiqichn&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </div>
+
+
+## Leetcode Stats 🌌
+![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=leiqichn&cn=true)
