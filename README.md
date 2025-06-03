@@ -15,9 +15,11 @@ Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqi
 </picture>
 
 ## Interest 👨🏽‍💻
-- Project : NLP, Large Language Model, Golang Project, Python Project, Vue Project.
+- Project: NLP, Large Language Model, Golang Project, Python Project, Vue3 Project, DRF Project.
 
-- Language : Golang, Python, C++/C, Java, Vue, Django.
+- Scientific Research: Human phenotype recognition in electronic medical records， Protein Function Prediction, IDRs/IDP Prediction.
+
+- Language: Golang, Python, C/C++, Java, Shell.
 
 ## Open Source Experience 👯
 
