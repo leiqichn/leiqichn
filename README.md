@@ -26,6 +26,7 @@ Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqi
 **As a manager** ：
 
 - [优酷x天池 「酷文」小说创作大模型挑战赛](https://tianchi.aliyun.com/competition/entrance/532210/customize509): DeepThinking Team Leader, **Third Prize**.
+- [第三届世界科学智能大赛合成生物赛道：蛋白质固有无序区域预测](http://competition.sais.com.cn/competitionDetail/532313/leaderboard): DeepThinking Team Leader, **Top 10**.
 
 **As a member** :
 
@@ -36,7 +37,7 @@ Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqi
 ## Competition
 
 - [优酷x天池 「酷文」小说创作大模型挑战赛](https://tianchi.aliyun.com/competition/entrance/532210/customize509): DeepThinking Team Leader, **Third Prize**.
-
+- [第三届世界科学智能大赛合成生物赛道：蛋白质固有无序区域预测](http://competition.sais.com.cn/competitionDetail/532313/leaderboard): DeepThinking Team Leader, **Top 10**.
 ## GitHub Stats 📫
 
 <div>
