@@ -47,4 +47,4 @@ Welcome to my space! My ![Visitor Count](https://profile-counter.glitch.me/leiqi
 
 
 ## Leetcode Stats 🌌
-![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=leiqichn&cn=true)
+![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=leeeiqi&cn=true)
