@@ -2,6 +2,8 @@
     <img src="image/readme_file.png">
 </div>
 
+Welcome to my space! My ![](https://komarev.com/ghpvc/?username=leiqichn&color=green) Visitor.
+
 ## About Me  
 - 🌱 Fudan University.
 
