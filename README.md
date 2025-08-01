@@ -41,4 +41,4 @@ Competition
 
 
 ## Leetcode Stats 🌌
-![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=leeeiqi&cn=true)
+[Leetcode Stats](https://leetcard.jacoblin.cool/leeeiqi?site=cn)
