@@ -41,4 +41,4 @@ Competition
 
 
 ## Leetcode Stats 🌌
-[Leetcode Stats](https://leetcard.jacoblin.cool/leeeiqi?site=cn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/leeeiqi?site=cn)
