@@ -34,13 +34,5 @@ Competition
 
 - [IEEE Journal of Biomedical and Health Informatics（IF=5.77）]() : Reviewer
 
-## GitHub Stats 📫
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=leiqichn&show_icons=true&theme=light" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiqichn&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-</div>
-
-
 ## Leetcode Stats 🌌
 ![Leetcode Stats](https://leetcard.jacoblin.cool/leeeiqi?site=cn)
